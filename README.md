@@ -1,4 +1,4 @@
-ember-draggable
+ ember-draggable
 ==============================================================================
 
 [Short description of the addon.]
